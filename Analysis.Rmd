@@ -1,0 +1,15 @@
+---
+title: "Crowd-Sourced Data Analysis"
+author: "Alessio"
+date: "21/5/2019"
+output: html_document
+---
+
+# Load data
+
+Our group of intrepid scientists chose the 'faithful' dataset.
+
+```{r}
+df <- faithful
+```
+
